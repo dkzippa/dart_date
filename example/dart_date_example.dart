@@ -1,4 +1,4 @@
-import 'package:dart_date/dart_date.dart';
+import '../lib/dart_date.dart';
 
 main(List<String> args) {
   const pattern = '\'Heute ist\' dd-MMMM-yyyy';
